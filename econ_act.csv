@@ -1,0 +1,556 @@
+economic_activity,keywords_in_title,keyword_in_text_at_least2_1,keyword_in_text_at_least2_2
+Agriculture,non-perennial crops,grow,growing
+Agriculture,cereals,grow,growing
+Agriculture,leguminous crops,grow,growing
+Agriculture,oil seeds,grow,growing
+Agriculture,rice,grow,growing
+Agriculture,vegetables,grow,growing
+Agriculture,melons,grow,growing
+Agriculture,roots,grow,growing
+Agriculture,tubers,grow,growing
+Agriculture,sugar cane,grow,growing
+Agriculture,tobacco,grow,growing
+Agriculture,fibre crops,grow,growing
+Agriculture,grapes,grow,growing
+Agriculture,fruit,grow,growing
+Agriculture,drug,grow,growing
+Agriculture,plant propagation,null,null
+Agriculture,animal production,null,null
+Agriculture,cattle,raising,raise
+Agriculture,buffaloes,raising,raise
+Agriculture,horses,raising,raise
+Agriculture,camels,raising,raise
+Agriculture,camelids,raising,raise
+Agriculture,sheep,raising,raise
+Agriculture,goats,raising,raise
+Agriculture,swine,raising,raise
+Agriculture,pigs,raising,raise
+Agriculture,poultry,raising,raise
+Agriculture,animals,raising,raise
+Agriculture,mixed farming,null,null
+Agriculture,harvest,null,null
+Agriculture,animal production,null,null
+Agriculture,seed processing,null,null
+Agriculture,hunting,null,null
+Agriculture,trapping,null,null
+Agriculture,silvicutlure,null,null
+Agriculture,forestry,null,null
+Agriculture,logging,null,null
+Agriculture,fishing,null,null
+Agriculture,marine fishing,null,null
+Agriculture,freshwater fishing,null,null
+Agriculture,aqualculture,null,null
+Agriculture,marine aquaculture,null,null
+Agriculture,freshwater aquaculture,null,null
+Mining,hard coal,mining,mine
+Mining,lignite,mining,mine
+Mining,iron,mining,mine
+Mining,metal,mining,mine
+Mining,uranium,mining,mine
+Mining,thorium,mining,mine
+Mining,ores,mining,mine
+Mining,non-ferrous metal,mining,mine
+Mining,chemical materials,mining,mine
+Mining,fertilizer minerals,mining,mine
+Mining,crude petroleum,extraction,extract
+Mining,natural gas,extraction,extract
+Mining,peat,extraction,extract
+Mining,salt,extraction,extract
+Manufacturing,meat,processing,preserving
+Manufacturing,fish,processing,preserving
+Manufacturing,crustaceans,processing,preserving
+Manufacturing,molluscs,processing,preserving
+Manufacturing,vegetable,manufacture,manufacturing
+Manufacturing,animal oils,manufacture,manufacturing
+Manufacturing,fats,manufacture,manufacturing
+Manufacturing,dairy products,manufacture,manufacturing
+Manufacturing,starches,manufacture,manufacturing
+Manufacturing,starch products,manufacture,manufacturing
+Manufacturing,food,manufacture,manufacturing
+Manufacturing,bakery,manufacture,manufacturing
+Manufacturing,sugar,manufacture,manufacturing
+Manufacturing,cocoa,manufacture,manufacturing
+Manufacturing,chocolate,manufacture,manufacturing
+Manufacturing,sugar confectionery,manufacture,manufacturing
+Manufacturing,macaroni,manufacture,manufacturing
+Manufacturing,noodls,manufacture,manufacturing
+Manufacturing,couscous,manufacture,manufacturing
+Manufacturing,farinaceous products,manufacture,manufacturing
+Manufacturing,prepared meals,manufacture,manufacturing
+Manufacturing,prepared dishes,manufacture,manufacturing
+Manufacturing,food products,manufacture,manufacturing
+Manufacturing,prepared animal feeds,manufacture,manufacturing
+Manufacturing,wines,manufacture,manufacturing
+Manufacturing,malt liquors,manufacture,manufacturing
+Manufacturing,malt,manufacture,manufacturing
+Manufacturing,soft drinks,manufacture,manufacturing
+Manufacturing,mineral waters,manufacture,manufacturing
+Manufacturing,bottled waters,manufacture,manufacturing
+Manufacturing,tobacco,manufacture,manufacturing
+Manufacturing,textiles,manufacture,manufacturing
+Manufacturing,knitted fabrics,manufacture,manufacturing
+Manufacturing,crocheted fabrics,manufacture,manufacturing
+Manufacturing,made-up textule articles,manufacture,manufacturing
+Manufacturing,carpets,manufacture,manufacturing
+Manufacturing,rugs,manufacture,manufacturing
+Manufacturing,cordage,manufacture,manufacturing
+Manufacturing,rope,manufacture,manufacturing
+Manufacturing,twine,manufacture,manufacturing
+Manufacturing,netting,manufacture,manufacturing
+Manufacturing,wearing apparel,manufacture,manufacturing
+Manufacturing,fur,manufacture,manufacturing
+Manufacturing,luggage,manufacture,manufacturing
+Manufacturing,handbags,manufacture,manufacturing
+Manufacturing,saddlery,manufacture,manufacturing
+Manufacturing,harness,manufacture,manufacturing
+Manufacturing,footwear,manufacture,manufacturing
+Manufacturing,wood,manufacture,manufacturing
+Manufacturing,cork,manufacture,manufacturing
+Manufacturing,straw,manufacture,manufacturing
+Manufacturing,plaiting meterials,manufacture,manufacturing
+Manufacturing,veneer sheets,manufacture,manufacturing
+Manufacturing,wood-based panels,manufacture,manufacturing
+Manufacturing,wooden containers,manufacture,manufacturing
+Manufacturing,pulp,manufacture,manufacturing
+Manufacturing,paper,manufacture,manufacturing
+Manufacturing,paperboard,manufacture,manufacturing
+Manufacturing,coce oven products,manufacture,manufacturing
+Manufacturing,refined petroleum products,manufacture,manufacturing
+Manufacturing,basic chemicals,manufacture,manufacturing
+Manufacturing,fertilizers,manufacture,manufacturing
+Manufacturing,nitrogen compounds,manufacture,manufacturing
+Manufacturing,plastsics,manufacture,manufacturing
+Manufacturing,synthetic rubber,manufacture,manufacturing
+Manufacturing,pesticides,manufacture,manufacturing
+Manufacturing,agrochemical products,manufacture,manufacturing
+Manufacturing,paoints,manufacture,manufacturing
+Manufacturing,varnishes,manufacture,manufacturing
+Manufacturing,coatings,manufacture,manufacturing
+Manufacturing,printing ink,manufacture,manufacturing
+Manufacturing,mastics,manufacture,manufacturing
+Manufacturing,soap,manufacture,manufacturing
+Manufacturing,detergents,manufacture,manufacturing
+Manufacturing,fibres,manufacture,manufacturing
+Manufacturing,pharmaceuticals,manufacture,manufacturing
+Manufacturing,medicinal chemical,manufacture,manufacturing
+Manufacturing,botanical products,manufacture,manufacturing
+Manufacturing,rubber products,manufacture,manufacturing
+Manufacturing,rubber tyres,manufacture,manufacturing
+Manufacturing,rubber tubes,manufacture,manufacturing
+Manufacturing,glass,manufacture,manufacturing
+Manufacturing,glass products,manufacture,manufacturing
+Manufacturing,non-metallic mineral products,manufacture,manufacturing
+Manufacturing,manufacture of refractory products,manufacture,manufacturing
+Manufacturing,clay building materials,manufacture,manufacturing
+Manufacturing,percelain,manufacture,manufacturing
+Manufacturing,ceramic,manufacture,manufacturing
+Manufacturing,cement,manufacture,manufacturing
+Manufacturing,lime,manufacture,manufacturing
+Manufacturing,plaster,manufacture,manufacturing
+Manufacturing,iron,manufacture,manufacturing
+Manufacturing,steel,manufacture,manufacturing
+Manufacturing,stuctural metal products,manufacture,manufacturing
+Manufacturing,weapons,manufacture,manufacturing
+Manufacturing,ammunition,manufacture,manufacturing
+Manufacturing,hand tools,manufacture,manufacturing
+Manufacturing,general hardware,manufacture,manufacturing
+Manufacturing,fabricated metal products,manufacture,manufacturing
+Manufacturing,electronics,manufacture,manufacturing
+Manufacturing,electronic components,manufacture,manufacturing
+Manufacturing,electronic boards,manufacture,manufacturing
+Manufacturing,computers,manufacture,manufacturing
+Manufacturing,peripheral equipment,manufacture,manufacturing
+Manufacturing,communication equipment,manufacture,manufacturing
+Manufacturing,consumer electronics,manufacture,manufacturing
+Manufacturing,clocks,manufacture,manufacturing
+Manufacturing,watches,manufacture,manufacturing
+Manufacturing,measuring equipement,manufacture,manufacturing
+Manufacturing,control equipement,manufacture,manufacturing
+Manufacturing,electromedical equipement,manufacture,manufacturing
+Manufacturing,optical instruments,manufacture,manufacturing
+Manufacturing,photographic equipement,manufacture,manufacturing
+Manufacturing,magentic media,manufacture,manufacturing
+Manufacturing,optical media,manufacture,manufacturing
+Manufacturing,electric motors,manufacture,manufacturing
+Manufacturing,batteries,manufacture,manufacturing
+Manufacturing,accumulators,manufacture,manufacturing
+Manufacturing,wiring,manufacture,manufacturing
+Manufacturing,wiring devices,manufacture,manufacturing
+Manufacturing,fibre optic cables,manufacture,manufacturing
+Manufacturing,electric lighting equipement,manufacture,manufacturing
+Manufacturing,domestic appliances,manufacture,manufacturing
+Manufacturing,electrical equipement,manufacture,manufacturing
+Manufacturing,general-purpose machinery,manufacture,manufacturing
+Manufacturing,engines,manufacture,manufacturing
+Manufacturing,turbines,manufacture,manufacturing
+Manufacturing,fuild power equipement,manufacture,manufacturing
+Manufacturing,pumps,manufacture,manufacturing
+Manufacturing,compressors,manufacture,manufacturing
+Manufacturing,traps,manufacture,manufacturing
+Manufacturing,vavles,manufacture,manufacturing
+Manufacturing,bearings,manufacture,manufacturing
+Manufacturing,gears,manufacture,manufacturing
+Manufacturing,ovens,manufacture,manufacturing
+Manufacturing,funcace,manufacture,manufacturing
+Manufacturing,lifting equipement,manufacture,manufacturing
+Manufacturing,office machinery,manufacture,manufacturing
+Manufacturing,agricultural machinery,manufacture,manufacturing
+Manufacturing,machinery,manufacture,manufacturing
+Manufacturing,motor vehicles,manufacture,manufacturing
+Manufacturing,ships,manufacture,manufacturing
+Manufacturing,boats,manufacture,manufacturing
+Manufacturing,aircraft,manufacture,manufacturing
+Manufacturing,spacecraft,manufacture,manufacturing
+Manufacturing,military fighting vehicles,manufacture,manufacturing
+Manufacturing,transport equipement,manufacture,manufacturing
+Manufacturing,motorcycles,manufacture,manufacturing
+Manufacturing,bicycles,manufacture,manufacturing
+Manufacturing,furniture,manufacture,manufacturing
+Manufacturing,jewellery,manufacture,manufacturing
+Manufacturing,bijouterie,manufacture,manufacturing
+Manufacturing,musical instruments,manufacture,manufacturing
+Manufacturing,sports goods,manufacture,manufacturing
+Manufacturing,games,manufacture,manufacturing
+Manufacturing,toys,manufacture,manufacturing
+Manufacturing,medical instruments,manufacture,manufacturing
+Manufacturing,dental instruments,manufacture,manufacturing
+Manufacturing,fabricated metal products,repair,null
+Manufacturing,machinery,repair,null
+Manufacturing,fabricated metal products,repair,null
+Manufacturing,machinery,repair,null
+Manufacturing,electronic equipement,repair,null
+Manufacturing,optical equipement,repair,null
+Manufacturing,electrical equipement,repair,null
+Manufacturing,transport equipement,repair,null
+Energy,electric power,generation,null
+Energy,electric power,transmission,null
+Energy,electric power,distribution,null
+Energy,gas* fuels,manufacture,null
+Energy,gas* fuels,distribution,null
+Energy,steam,power,null
+Energy,air conditioning,power,null
+Energy,water,collection,null
+Energy,water,treatment,null
+Energy,water,supply,null
+Energy,sewerage,null,null
+Energy,waste collection,null,null
+Energy,non-hazardous waste,collection,null
+Energy,hazardous waste,collection,null
+Energy,waste treatment,null,null
+Energy,waste disposal,null,null
+Energy,non-hazardous waste,disposal,null
+Energy,non-hazardous waste,treatment,null
+Energy,hazardous waste,disposal,null
+Energy,hazardous waste,treatment,null
+Energy,remediation activities,null,null
+Energy,waste management,services,null
+Construction,buldings,construction,null
+Construction,roads,construction,null
+Construction,railways,construction,null
+Construction,utility projects,construction,null
+Construction,civil engineering,construction,null
+Construction,demolition,null,null
+Construction,site preparation,null,null
+Construction,installation activities,null,null
+Construction,electrical installation,null,null
+Construction,plumbing installation,null,null
+Construction,air-conditioning installation,null,null
+Construction,construction installation,null,null
+Construction,building completion,null,null
+Construction,building finishing,null,null
+Construction,specialized construction,null,null
+Sales,motor vehicles,sale,sales
+Sales,motor vehicle parts,sale,sales
+Sales,motorcycles,sale,sales
+Sales,accessories,sale,sales
+Sales,parts,sale,sales
+Sales,maintenance of motor vehicles,null,null
+Sales,repari of motor vehicles,null,null
+Sales,agricultural raw materials,wholesale,null
+Sales,live animals,wholesale,null
+Sales,food,wholesale,null
+Sales,beverages,wholesale,null
+Sales,tobacco,wholesale,null
+Sales,houshold goods,wholesale,null
+Sales,textiles,wholesale,null
+Sales,clothing,wholesale,null
+Sales,footwear,wholesale,null
+Sales,machinery,wholesale,null
+Sales,equipement,wholesale,null
+Sales,supplies,wholesale,null
+Sales,computers,wholesale,null
+Sales,peripheral equipement,wholesale,null
+Sales,software,wholesale,null
+Sales,electronic equipements,wholesale,null
+Sales,telecommunications equipement,wholesale,null
+Sales,agricultural machinery,wholesale,null
+Sales,metals,wholesale,null
+Sales,fuels,wholesale,null
+Sales,constuction materials,wholesale,null
+Sales,hardware,wholesale,null
+Sales,plumbing equipement,wholesale,null
+Sales,heating equipement,wholesale,null
+Sales,waste,wholesale,null
+Sales,food,retail sale,null
+Sales,beverages,null,null
+Sales,tobacco,null,null
+Sales,automotive fuel,null,null
+Sales,information equipment,null,null
+Sales,computers,null,null
+Sales,peripheral units,null,null
+Sales,software,null,null
+Sales,telecommunications equipement,null,null
+Sales,audio equipment,null,null
+Sales,video equipment,null,null
+Sales,houshold equipment,null,null
+Sales,textiles,null,null
+Sales,hardware,null,null
+Sales,paints,null,null
+Sales,glass,null,null
+Sales,carpets,null,null
+Sales,rugs,null,null
+Sales,wall,null,null
+Sales,floor coverings,null,null
+Sales,furniture,null,null
+Sales,lighting equipement,null,null
+Sales,cultural goods,null,null
+Sales,recreation goods,null,null
+Sales,books,null,null
+Sales,newspapers,null,null
+Sales,music recordings,null,null
+Sales,video recordings,null,null
+Sales,sporting equipement,null,null
+Sales,games,null,null
+Sales,toys,null,null
+Sales,clothing,null,null
+Sales,footwear,null,null
+Sales,leather articles,null,null
+Sales,pharmaceutical goods,null,null
+Sales,medical goods,null,null
+Sales,cosmetic articles,null,null
+Sales,toilet articles,null,null
+Sales,second-hand goods,null,null
+Transportation,railway*,transport,null
+Transportation,passenger rail,transport,null
+Transportation,freight rail,transport,null
+Transportation,land transport,null,null
+Transportation,passenger transport,null,null
+Transportation,freight transport by road,transport,null
+Transportation,sea water transport,transport,null
+Transportation,coastal water transport,transport,null
+Transportation,sea passenger water transport,transport,null
+Transportation,coastal passenger water transport,transport,null
+Transportation,inland transport,transport,null
+Transportation,inland passenger water transport,transport,null
+Transportation,inland freight water transport,transport,null
+Transportation,air transport,transport,null
+Transportation,passenger air transport,transport,null
+Transportation,freight air transport,transport,null
+Transportation,warehousing,warehousing,null
+Transportation,storage,null,null
+Transportation,cargo,null,null
+Transportation,postal,null,null
+Transportation,courier,null,null
+Transportation,postal,activities,null
+Transportation,courier,activities,null
+Accomondation,accomondation,null,null
+Accomondation,camping grounds,null,null
+Accomondation,recreational vehicle parks,null,null
+Accomondation,trailer parks,null,null
+Accomondation,restaurant,null,null
+Accomondation,mobile food service,null,null
+Accomondation,catering,null,null
+Accomondation,event catering,null,null
+Accomondation,beverage serving,null,null
+Information,book,publish,publishing
+Information,periodicals,publish,publishing
+Information,directories,publish,publishing
+Information,mailing lists,publish,publishing
+Information,newspapers,publish,publishing
+Information,journals,publish,publishing
+Information,software,publish,publishing
+Information,motion picture,null,null
+Information,video television,null,null
+Information,sound recording,null,null
+Information,music publishing,null,null
+Information,wired telecommunications,null,null
+Information,wireless telecommunications,null,null
+Information,satellite telecommunications,null,null
+Information,computer programming,null,null
+Information,programming,null,null
+Information,coding,null,null
+Information,computer consultancy,null,null
+Information,computer facilities management,null,null
+Information,information technology,null,null
+Information,computer services,null,null
+Information,data processing,null,null
+Information,data hosting,null,null
+Information,web portals,null,null
+Finance,monetary intermediation,finance,financial
+Finance,central banking,finance,financial
+Finance,monetary intermediation,finance,financial
+Finance,holding companies,finance,financial
+Finance,trusts,finance,financial
+Finance,funds,finance,financial
+Finance,fincancial entities,finance,financial
+Finance,financial service,finance,financial
+Finance,financial leasing,finance,financial
+Finance,credit granting,finance,financial
+Finance,insurance,null,null
+Finance,life insurance,null,null
+Finance,non-life insurance,null,null
+Finance,reinsurance,null,null
+Finance,pension funding,null,null
+Finance,administration of financial markets,null,null
+Finance,securities,null,null
+Finance,commodity contracts brokerage,null,null
+Finance,risk evaluation,null,null
+Finance,damage evaluation,null,null
+Finance,insurance brokers,null,null
+Finance,insurance agents,null,null
+Finance,fund management,null,null
+RealEstate,property,null,null
+RealEstate,leased property ,null,null
+RealEstate,real estate,null,null
+RealEstate,properties,null,null
+Professional,legal activities,null,null
+Professional,accounting,null,null
+Professional,bookkeeping,null,null
+Professional,auditing,null,null
+Professional,tax consultancy,null,null
+Professional,head office activities,null,null
+Professional,management consultancy,null,null
+Professional,architecture,null,null
+Professional,engineering,null,null
+Professional,technical analysis,null,null
+Professional,technical testing,null,null
+Professional,research and development,null,null
+Professional,experimental development,null,null
+Professional,advertising,null,null
+Professional,market research,null,null
+Professional,marketing,null,null
+Professional,public opinion polling,null,null
+Professional,design activities,null,null
+Professional,photography,null,null
+Professional,photographic activities,null,null
+Professional,scientific activities,null,null
+Professional,veterinary,null,null
+Professional,vet,null,null
+Administrative,vehicle,renting,leasing
+Administrative,personal goods,renting,leasing
+Administrative,household goods,renting,leasing
+Administrative,video tapes,renting,leasing
+Administrative,disks,renting,leasing
+Administrative,machinery,renting,leasing
+Administrative,equipment,renting,leasing
+Administrative,tangible goods,renting,leasing
+Administrative,intellectual property,null,leasing
+Administrative,employment placement,null,null
+Administrative,temporary employment,null,null
+Administrative,human resources,null,null
+Administrative,travel agency,null,null
+Administrative,tour operator,null,null
+Administrative,private security,null,null
+Administrative,security systems,null,null
+Administrative,investigation activities,null,null
+Administrative,facility support,null,null
+Administrative,cleaning,null,null
+Administrative,building cleaning,null,null
+Administrative,industrial cleaning,null,null
+Administrative,landscape care,null,null
+Administrative,maintenance service,null,null
+Administrative,office administration,null,null
+Administrative,photocopying,null,null
+Administrative,document preparation,null,null
+Administrative,call center,null,null
+Administrative,trade shows,null,null
+Administrative,credit bureaus,null,null
+Administrative,packaging ,null,null
+PublicAdministration,state administration,regulation,null
+PublicAdministration,economic administration,regulation,null
+PublicAdministration,social policy,regulation,null
+PublicAdministration,community administration,regulation,null
+PublicAdministration,general public administration,regulation,null
+PublicAdministration,health care,regulation,null
+PublicAdministration,education,regulation,null
+PublicAdministration,cultural services,regulation,null
+PublicAdministration,social services,regulation,null
+PublicAdministration,business operation,regulation,null
+PublicAdministration,foreign affairs,regulation,null
+PublicAdministration,defence activities,regulation,null
+PublicAdministration,public order,regulation,null
+PublicAdministration,public safety,regulation,null
+PublicAdministration,compulsory social security,regulation,null
+Education,pre-primary,education,null
+Education,primary,education,null
+Education,secondary,education,null
+Education,general secondary,education,null
+Education,technical secondary,education,null
+Education,vocational secondary,education,null
+Education,highter,education,null
+Education,sports,education,null
+Education,cultural,education,null
+Health,hospital,null,null
+Health,medical,null,null
+Health,dental,null,null
+Health,human health,null,null
+Health,nursing,null,null
+Health,residential nursing,null,null
+Health,care facilities,null,null
+Health,residential care,null,null
+Health,mental retardation,care,null
+Health,mental health,care,null
+Health,substance abuse,care,null
+Health,elderly,care,null
+Health,disabled,care,null
+Health,social work,null,null
+Arts,creative,null,null
+Arts,arts,null,null
+Arts,entertainment,null,null
+Arts,library,null,null
+Arts,archives activities,null,null
+Arts,museums,null,null
+Arts,historical sites,null,null
+Arts,botanical gardens,null,null
+Arts,zoological gardens,null,null
+Arts,nature reserves,null,null
+Arts,gambling,null,null
+Arts,betting,null,null
+Arts,sports,null,null
+Arts,operation of sport facilities,null,null
+Arts,sports clubs,null,null
+Arts,amusement park,null,null
+Arts,recreation park,null,null
+Arts,amusement activities,null,null
+Arts,recreation activities,null,null
+Other,business,membership,organization
+Other,employers,membership,organization
+Other,professional,membership,organization
+Other,trade unions,null,null
+Other,membership organization,null,null
+Other,political organization,null,null
+Other,computers,repair,null
+Other,communication equipment,repair,null
+Other,peripheral equipment,repair,null
+Other,personal goods,repair,null
+Other,household goods,repair,null
+Other,consumer electronics,repair,null
+Other,houshold applicances,repair,null
+Other,home equipment,repair,null
+Other,garden equipment,repair,null
+Other,footwear,repair,null
+Other,leather goods,repair,null
+Other,furniture,repair,null
+Other,home furnishings,repair,null
+Other,washing,textile,fur
+Other,dry-cleaning,textile,fur
+Other,cleaning,textile,fur
+Other,hairdressing,null,null
+Other,beauty treatment,null,null
+Other,funeral service,null,null
+Household,households,null,null
+Household,domestic personnel,null,null
+Household,private housholds,null,null
+Household,own use,null,null
+Extraterritorial,extraterritorial organization,null,null
+Extraterritorial,extraterritorial bodies,null,null
