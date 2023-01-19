@@ -2,12 +2,16 @@ import puppeteer from 'puppeteer';
 import fs from "fs"
 
 let count = 0;
-let max = 555*9;
+let max = 555;
 
 (async () => {
     // import query_params
     const data = fs.readFileSync('./econ_act.csv', 'utf-8');
-    const years = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022]
+    let cached_densities = null;
+    try {
+        cached_densities = fs.readFileSync("./economic_activity_density.json")
+    } catch { }
+    const years = [2018]
     const core_words = ["blockchain"]  // could also loop though an array of core_words
 
     const records = data.split('\n');
@@ -21,7 +25,13 @@ let max = 555*9;
     }
     const unique_activities = firstVals.filter(onlyUnique);
 
-    const densities = {}
+    let densities = {
+        index: 0
+    }
+
+    if (cached_densities) {
+        densities = JSON.parse(cached_densities);
+    }
 
     const getUrl = (start_year, end_year, core_word, key_title, key_text_1, key_text_2) => {
         key_title = replace_whitespaces(key_title)
@@ -52,7 +62,8 @@ let max = 555*9;
             densities[year] = {}
         }
         for (const core_word of core_words) {
-            for (var i = 0; i < records.length; i++) {
+
+            for (var i = densities.index; i < records.length; i++) {
 
                 const entry = records[i].split(',');
                 const category = entry[0].replace('"', '');
@@ -95,7 +106,7 @@ let max = 555*9;
                 console.log(url + "\n")
                 //   // Print all the files.
                 await browser.close();
-
+                densities.index = i + 1;
                 fs.writeFileSync("economic_activity_density.json", JSON.stringify(densities));
 
                 count++;
