@@ -1,7 +1,6 @@
 import puppeteer from 'puppeteer';
 import fs from "fs"
 
-let count = 0;
 let max = 555;
 
 (async () => {
@@ -109,8 +108,7 @@ let max = 555;
                 densities.index = i + 1;
                 fs.writeFileSync("economic_activity_density.json", JSON.stringify(densities));
 
-                count++;
-                console.log((count / max * 100).toFixed(1) + "%")
+                console.log((densities.index / max * 100).toFixed(1) + "%")
             }
         }
     }
